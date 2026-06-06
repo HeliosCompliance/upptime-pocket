@@ -4,7 +4,7 @@
     "url": "https://paybypocket.com",
     "icon": "https://icons.duckduckgo.com/ip3/paybypocket.com.ico",
     "slug": "pay-by-pocket",
-    "status": "up",
+    "status": "down",
     "uptime": "99.48%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 207,
     "timeYear": 239,
     "dailyMinutesDown": {
+      "2026-06-06": 0,
       "2025-11-24": 10,
       "2025-11-21": 10,
       "2025-06-16": 7,
