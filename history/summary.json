@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/paybypocket.com.ico",
     "slug": "pay-by-pocket",
     "status": "up",
-    "uptime": "99.51%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.92%",
+    "uptime": "99.50%",
+    "uptimeDay": "98.32%",
+    "uptimeWeek": "99.76%",
+    "uptimeMonth": "99.87%",
     "uptimeYear": "99.99%",
     "time": 238,
-    "timeDay": 182,
-    "timeWeek": 201,
-    "timeMonth": 203,
+    "timeDay": 245,
+    "timeWeek": 215,
+    "timeMonth": 207,
     "timeYear": 238,
     "dailyMinutesDown": {
-      "2026-06-06": 35
+      "2026-06-06": 35,
+      "2026-06-27": 24
     }
   }
 ]
